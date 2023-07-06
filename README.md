@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Swift and Google Cloud
 - 💞️ I’m looking to collaborate on Ui/Ux Designs and Web Development
 - 📫 How to reach me - aryansharma28.in@gmail.com 
-- 🧑🏻‍💻 Portfolio - aryansharma.social
+- 🧑🏻‍💻 Portfolio - aryanshportfolio.framer.website
 
 <!---
 Aryansh2806/Aryansh2806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
